@@ -1,0 +1,255 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SendFarts */ = {
+		activeExec = 0;
+		executables = (
+			6B7DAC1112B2C9F50009BBC9 /* SendFarts */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SendFartsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 881}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1716}}";
+			sepNavSelRange = "{3895, 0}";
+			sepNavVisRange = "{3307, 1432}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6B7DAC1112B2C9F50009BBC9 /* SendFarts */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SendFarts */;
+		breakpoints = (
+		);
+		codeSenseManager = 6B7DAC1B12B2C9FC0009BBC9 /* Code sense */;
+		executables = (
+			6B7DAC1112B2C9F50009BBC9 /* SendFarts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					517,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313706997;
+			PBXWorkspaceStateSaveDate = 313706997;
+		};
+		perUserProjectItems = {
+			6B7DAC3E12B2DCF20009BBC9 /* PBXTextBookmark */ = 6B7DAC3E12B2DCF20009BBC9 /* PBXTextBookmark */;
+			6B7DAC3F12B2DCF20009BBC9 /* PBXTextBookmark */ = 6B7DAC3F12B2DCF20009BBC9 /* PBXTextBookmark */;
+			6B7DAC4012B2DCF20009BBC9 /* PBXTextBookmark */ = 6B7DAC4012B2DCF20009BBC9 /* PBXTextBookmark */;
+			6B7DAC6112B2DE090009BBC9 /* PBXTextBookmark */ = 6B7DAC6112B2DE090009BBC9 /* PBXTextBookmark */;
+			6B7DAC6212B2DE090009BBC9 /* PBXTextBookmark */ = 6B7DAC6212B2DE090009BBC9 /* PBXTextBookmark */;
+			6B7DAC6512B2DE290009BBC9 /* PBXTextBookmark */ = 6B7DAC6512B2DE290009BBC9 /* PBXTextBookmark */;
+			6B7DAC6812B2DE420009BBC9 /* PBXTextBookmark */ = 6B7DAC6812B2DE420009BBC9 /* PBXTextBookmark */;
+			6B7DAC6E12B2DF1F0009BBC9 /* PBXTextBookmark */ = 6B7DAC6E12B2DF1F0009BBC9 /* PBXTextBookmark */;
+			6B7DAC6F12B2DF1F0009BBC9 /* PBXTextBookmark */ = 6B7DAC6F12B2DF1F0009BBC9 /* PBXTextBookmark */;
+			6B7DAC7512B2DF5A0009BBC9 /* PBXTextBookmark */ = 6B7DAC7512B2DF5A0009BBC9 /* PBXTextBookmark */;
+			6B7DAC7B12B2DFCE0009BBC9 /* PBXTextBookmark */ = 6B7DAC7B12B2DFCE0009BBC9 /* PBXTextBookmark */;
+			6B7DAC7C12B2DFCE0009BBC9 /* PBXTextBookmark */ = 6B7DAC7C12B2DFCE0009BBC9 /* PBXTextBookmark */;
+			6B7DAC7D12B2DFCE0009BBC9 /* PBXTextBookmark */ = 6B7DAC7D12B2DFCE0009BBC9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6B7DAC1A12B2C9FC0009BBC9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6B7DAC1112B2C9F50009BBC9 /* SendFarts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SendFarts;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6B7DAC1A12B2C9FC0009BBC9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6B7DAC1B12B2C9FC0009BBC9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6B7DAC3E12B2DCF20009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SendFartsViewController.h */;
+		name = "SendFartsViewController.h: 35";
+		rLen = 0;
+		rLoc = 846;
+		rType = 0;
+		vrLen = 936;
+		vrLoc = 92;
+	};
+	6B7DAC3F12B2DCF20009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 95";
+		rLen = 0;
+		rLoc = 3449;
+		rType = 0;
+		vrLen = 1165;
+		vrLoc = 2324;
+	};
+	6B7DAC4012B2DCF20009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 106";
+		rLen = 0;
+		rLoc = 3777;
+		rType = 0;
+		vrLen = 1313;
+		vrLoc = 3373;
+	};
+	6B7DAC6112B2DE090009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 113";
+		rLen = 0;
+		rLoc = 4194;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 2133;
+	};
+	6B7DAC6212B2DE090009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 107";
+		rLen = 0;
+		rLoc = 3910;
+		rType = 0;
+		vrLen = 1439;
+		vrLoc = 3233;
+	};
+	6B7DAC6512B2DE290009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 113";
+		rLen = 0;
+		rLoc = 4183;
+		rType = 0;
+		vrLen = 1444;
+		vrLoc = 3233;
+	};
+	6B7DAC6812B2DE420009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 115";
+		rLen = 0;
+		rLoc = 4300;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 3413;
+	};
+	6B7DAC6E12B2DF1F0009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 115";
+		rLen = 0;
+		rLoc = 4300;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 2269;
+	};
+	6B7DAC6F12B2DF1F0009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 77";
+		rLen = 0;
+		rLoc = 2634;
+		rType = 0;
+		vrLen = 1432;
+		vrLoc = 3275;
+	};
+	6B7DAC7512B2DF5A0009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 101";
+		rLen = 0;
+		rLoc = 3456;
+		rType = 0;
+		vrLen = 1421;
+		vrLoc = 3275;
+	};
+	6B7DAC7B12B2DFCE0009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SendFartsViewController.m */;
+		name = "SendFartsViewController.m: 110";
+		rLen = 0;
+		rLoc = 3895;
+		rType = 0;
+		vrLen = 1432;
+		vrLoc = 3307;
+	};
+	6B7DAC7C12B2DFCE0009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SendFartsViewController.h */;
+		name = "SendFartsViewController.h: 35";
+		rLen = 0;
+		rLoc = 846;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 142;
+	};
+	6B7DAC7D12B2DFCE0009BBC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SendFartsViewController.h */;
+		name = "SendFartsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 0;
+	};
+}
